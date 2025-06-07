@@ -1,4 +1,4 @@
-**🌄 Expanding Cards**
+***🌄 Expanding Cards***
 
 A responsive web project with clickable cards that expand smoothly when selected. Each card shows a title and a glowing border effect to highlight the active one, making the layout interactive and visually appealing.
 

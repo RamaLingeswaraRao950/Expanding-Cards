@@ -23,5 +23,4 @@ A responsive web project with clickable cards that expand smoothly when selected
 2. Only one card can be active at a time.
 3. Active cards show a **glow effect** and fade-in text.
 
-## 🌍 Live Demo :
-https://expanding-cards-indol-one.vercel.app/
+## 🌍 Live Demo : https://expanding-cards-indol-one.vercel.app/

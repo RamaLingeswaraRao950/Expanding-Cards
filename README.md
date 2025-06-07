@@ -1,6 +1,7 @@
 # 🌄 Expanding Cards
 
-A responsive and visually engaging web project that features interactive expanding cards with background images and smooth animations. Each panel expands upon clicking, displaying a highlighted title and a glowing border effect to draw attention.
+A responsive web project with clickable cards that expand smoothly when selected. Each card shows a title and a glowing border effect to highlight the active one, making the layout interactive and visually appealing.
+
 
 ## ✨ Features :
 
@@ -20,4 +21,7 @@ A responsive and visually engaging web project that features interactive expandi
 
 1. Click on any panel to **expand** it and reveal its title.
 2. Only one card can be active at a time.
-3. Active cards show a **radium glow effect** and fade-in text.
+3. Active cards show a **glow effect** and fade-in text.
+
+## 🌍 Live Demo :
+https://expanding-cards-indol-one.vercel.app/

@@ -2,19 +2,19 @@
 
 A responsive and visually engaging web project that features interactive expanding cards with background images and smooth animations. Each panel expands upon clicking, displaying a highlighted title and a glowing border effect to draw attention.
 
-## ✨ Features
+## ✨ Features:--
 
 - 🎨 Interactive expanding cards with smooth transitions  
-- 💡 Glow (radium) effect on active card  
-- 📱 Fully responsive layout (mobile-friendly)  
+- 💡 Glow effect on active card  
+- 📱 Fully responsive layout
 - 🔠 Title fade-in animation on selected card  
 - 🖼️ Beautiful background images for visual appeal  
 
-## 🛠️ Technologies Used
+## 🛠️ Technologies:--
 
+- 🧠 JavaScript  
+- 🎨 CSS3  
 - 🌐 HTML5  
-- 🎨 CSS3 (with Google Fonts)  
-- 🧠 JavaScript (DOM manipulation)  
 
 ## 🚀 Usage
 
